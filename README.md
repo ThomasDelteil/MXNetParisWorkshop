@@ -22,7 +22,7 @@
 
 15h00-15h15 *break*
 
-15h15-17h00 Advanced example: MF-based recommendations (hands-on)
+15h15-17h00 Advanced example: [MF-based recommendations](RecSysMatrixFactorization.ipynb) (hands-on)
 
 ### Instructions 
 
